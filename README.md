@@ -1,2 +1,5 @@
 # BibliotecaPersonal
-Aplicación de consola para gestionar una biblioteca de libros
+## Descargar JAR
+
+Puedes descargar la aplicación desde aquí:  
+[Descargar BibliotecaPersonal.jar](https://github.com/enzogretter/BibliotecaPersonal/raw/main/BibliotecaPersonal.jar)
